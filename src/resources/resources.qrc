@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file alias="map">./washington.txt</file>
-    </qresource>
-</RCC>
